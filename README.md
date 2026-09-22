@@ -85,7 +85,6 @@ iphone-sales-analytics/
 ├── README.md
 ├── data/                  # source datasets (or sample/synthetic versions)
 ├── sql/                   # table creation + load scripts
-├── power-query/           # M scripts / cleaning steps documentation
 ├── powerbi/
 │   └── apple_Sales_Dashboard.pbit
 └── screenshots/           # dashboard page images for this README
